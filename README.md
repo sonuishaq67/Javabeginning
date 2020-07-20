@@ -1,7 +1,6 @@
 # Javabeginning
 
 ## Setup
-***
 ### Java Installation for Linux  
 #### For Debian based systems using apt package manager
 ```
