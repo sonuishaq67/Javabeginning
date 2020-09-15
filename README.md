@@ -15,6 +15,7 @@ sudo rpm -i {jdk-11_package_name}.rpm
 ### Java Installation for windows
 
 #### Download and run [jdk-11.exe](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) for GUI installation or zip for Manual Installation 
+#### https://youtu.be/IJ-PJbvJBGs
 ***
 ### Java Installation for MacOS
 #### Download and run [jdk-11.dmg](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) for Graphical Installation or .tar file for Manual Installation
