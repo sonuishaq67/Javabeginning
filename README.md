@@ -34,6 +34,9 @@ javac 11.0.7
 
 ***
 
+## http://www.cas.mcmaster.ca/~lis3/javatutorial/Classpath.htm
+for compiling through terminal
+
 
 ### Then Download your Favourite Editor 
 #### I used Eclipse for this 
